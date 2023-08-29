@@ -1,0 +1,12 @@
+Experiment: 1, Date: 0720_150107, Result: Successful
+Experiment: 1, Date: 0720_150455, Result: Successful
+Experiment: 1, Date: 0720_150739, Result: Successful
+Experiment: 1, Date: 0720_151030, Result: Successful
+Experiment: 1, Date: 0720_151239, Result: Successful
+Experiment: 1, Date: 0720_151503, Result: Successful
+Experiment: 1, Date: 0720_151655, Result: Successful
+Experiment: 1, Date: 0720_151902, Result: Successful
+Experiment: 1, Date: 0720_152056, Result: Successful
+Experiment: 1, Date: 0720_152311, Result: Successful
+Experiment: 1, Date: 0720_152512, Result: Successful
+Experiment: 1, Date: 0720_154009, Result: Failure
